@@ -76,7 +76,7 @@ body {
   background-color: #00a65a;
 }
 .card.failed .header {
-  background-color: #f56956;
+  background-color: #F56956;
 }
 .card .header {
   color: #fff;
@@ -161,10 +161,6 @@ body {
 }
 #scenario-overview .feature .details .panel.failed > .panel-heading {
   color: white;
-  background-color: #f56956;
+  background-color: #F56956;
   background-image: none;
-}
-.list-group-item.break {
-  padding: 1px;
-  background-color: #808080;
 }
